@@ -1,4 +1,4 @@
-# Object-Detection-Project
+# Speed Bumps Object Detection
 The detection of speed bumps is crucial for enhancing road safety and minimizing accidents. Accurate identification of speed bumps enables drivers to be alerted promptly, encouraging them to reduce speed and avoid potential vehicle damage or harm to pedestrians and other road users. However, manual detection of speed bumps can be time-consuming and prone to errors. Therefore, there is a growing interest in developing automated systems using computer vision techniques to detect speed bumps on roads in real-time.
 
 The motivation behind developing automated speed bump detection systems stems from the need to improve road safety and mitigate the risks associated with speed bumps. Manual detection methods rely on human observation, which can be subjective and error-prone. By leveraging computer vision technologies, we can create more reliable and efficient systems that can detect speed bumps accurately and promptly, reducing the likelihood of accidents and enhancing overall road safety.
